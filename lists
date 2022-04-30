@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lists</title>
+</head>
+<body>
+    <h1>Lists:</h1>
+    <h3>ordered lists</h3>
+    Numeric
+    <ol type="1">
+        <li>item 1</li>
+        <li>item 2</li>
+    </ol>
+    Lower case letter
+    <ol type="a">
+        <li>item 1</li>
+        <li>item 2</li>
+    </ol>
+    uppercase letter
+    <ol type="A">
+        <li>item 1</li>
+        <li>item 2</li>
+    </ol>
+    uppercase roman numbers
+    <ol type="I">
+        <li>item 1</li>
+        <li>item 2</li>
+    </ol>
+    Lowercase roman numbers
+    <ol type="i">
+        <li>item 1</li>
+        <li>item 2</li>
+    </ol>
+    
+    <h3>un ordered lists</h3>
+    default
+    <ul default>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+    none style 
+    <ul none>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+    disk style
+    <ul disk>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+    Circle style
+    <ul circle>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+    Square style
+    <ul square>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+
+    <h2>mix</h2>
+    <ul disk>
+        <li>mobile development</li>
+        <li>web development</li>
+    </ul>
+    <ul circle>
+        <li>react</li>
+        <li>angular</li>
+    </ul>
+    <ul square>
+        <li>cloud service</li>
+    </ul>
+
+    </body>
+</body>
+</html>
