@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>asignment 1</title>
+</head>
+<body>
+    <h1>practice assignment 1</h1>
+    <hr>
+    <a href="https://prepbytes.com" target="_blank">Link to a website open in new tab</a><br><br>
+    <a href="https://prepbytes.com" target="_self">Link to a website open in same tab</a><br><br>
+    <a href="C:\Users\HP\OneDrive\Desktop\prepbytes\asssignment 1\list.html">link to a internal file</a><br><br>
+    <h4>image kept inside folder</h4>
+    <img width="100"height="120" src="http://127.0.0.1:5501/pexels-anjana-c-674010.jpg"><br>
+    <h4>upload image</h4>
+    <img width="100"height="120" src="https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455__340.jpg">
+    <hr>
+    <h2>Lists</h2>
+    <a href="http://127.0.0.1:5501/list.html">CLICK HERE</a>
+</body>
+</html>
